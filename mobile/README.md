@@ -1,4 +1,4 @@
-# mobile
+# swift_wallet
 
 A new Flutter project.
 
